@@ -1,0 +1,5 @@
+[package]
+
+name = "rts"
+version = "0.0.1"
+authors = ["Julian Tanke <jutanke@googlemail.com>"]
