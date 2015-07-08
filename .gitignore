@@ -1,0 +1,7 @@
+# gitignore
+!/src/*
+!.gitignore
+!README.md
+!Cargo.toml
+Cargo.lock
+target/*
