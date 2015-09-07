@@ -6,3 +6,6 @@ authors = ["Julian Tanke <jutanke@googlemail.com>"]
 
 [dependencies]
 hyper = "*"
+
+[dependencies.time]
+git = "https://github.com/rust-lang/time"
